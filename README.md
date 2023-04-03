@@ -2,4 +2,4 @@
 
 This repository was created by Official BlockAudit Team.
 
-![Certificate_BNBshib](https://user-images.githubusercontent.com/81981737/147665641-33921721-d669-4b06-be71-9de6f0ee4193.jpg)
+![bnbshib](https://user-images.githubusercontent.com/121312707/229457069-52a40f79-ac79-448f-8c6d-29fbb1f8f805.png)
